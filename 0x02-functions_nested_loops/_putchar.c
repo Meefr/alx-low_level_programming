@@ -4,6 +4,6 @@
 /**
  *this function is used for print _putchar
  * */
-void _putchar(void){
-	printf("_putchar\n");
+void _putchar(char c){
+	printf(c);
 }
