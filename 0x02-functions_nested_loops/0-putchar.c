@@ -2,6 +2,7 @@
 
 /**
  * this is a comment.
+ * Return: 0
  */
 int main(void)
 {
