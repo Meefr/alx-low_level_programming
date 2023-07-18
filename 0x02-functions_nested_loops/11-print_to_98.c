@@ -29,7 +29,6 @@ void print_to_98(int n)
 				if (j != 98)
 				{
 					_putchar(j + '0');
-					_putchar(' ');
 					_putchar(',');
 				}
 				else if (j == 98)
